@@ -297,7 +297,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "p", 21);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](39, " I am a web developer. mostly i was spending time on fixing little details and optimizing web apps. Also I like working in a team, Ability to learn new technologies. I specialize in JavaScript and have professional experience working with JavaScript and Angular. I also have experience working with jQuery and ReactJS. ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](39, " I\u2019m a Full stack Developer, experience driving complex projects. technical support as well passionate about enhancing user experience and maximizing user interface utilizing my experience in developing and delivering high standard back-end and front-end applications. ");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
